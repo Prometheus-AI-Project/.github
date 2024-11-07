@@ -5,7 +5,23 @@
 - https://prometheus-ai.net/ 
 
 ## Contact
-- Email: prometheus0513@gmail.com 
+<!--
+- Email: prometheus0513@gmail.com
+-->
+<div style="text-align: center;">
+    <a href="https://www.instagram.com/prometheus_ai_/" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+    </a>
+    <a href="https://discord.gg/JBZEXXTfkE" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+    </a>
+    <a href="mailto:prometheus0513@gmail.com" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://pf.kakao.com/_erQxnG" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
+    </a>
+</div>
 
 <!--
 
